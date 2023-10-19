@@ -1,0 +1,5 @@
+python 3.9.18
+pandas 2.0.3
+numpy 1.26.0
+jupyter 1.0.0
+sweetviz 2.2.1
